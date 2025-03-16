@@ -1,0 +1,5 @@
+P = int(input("Enter your principal: "))
+R = int(input("Enter your rate: "))
+T = int(input("Enter your time: "))
+A = P * (1 + (R/100) * T)
+print(A)

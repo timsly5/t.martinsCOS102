@@ -1,5 +1,22 @@
-P = int(input("Enter your principal: "))
-R = int(input("Enter your rate: "))
-T = int(input("Enter your time: "))
-A = P * (1 + (R/100) * T)
-print(A)
+print("Hello Jay")
+
+person = input("What's your name")
+print('Hello,', person)
+
+age = 12
+print(age)
+
+x = 6
+y = x * 7
+print(y)
+
+name = ('Adele Joe')
+print (name)
+
+mango = 5
+apple = 3
+apple > mango
+
+mango < apple
+
+mango == apple
